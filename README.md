@@ -13,8 +13,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/> </br>
      
   <img src="https://komarev.com/ghpvc/?username=Prudence97&style=plastic&color=brightgreen&label=Viewers" alt=""/>
- 
-    
   </a>
     <h1>
         Welcome
