@@ -21,7 +21,7 @@
 Hi 👋 My name is Prudence Emudianughe
 =====================================
 
-I started learning to code to build my start up, Prugems. After trying to build with HTML, CSS and JS, I found react and learned to write codes in react too. I'm currently building Prugems and there's so much I want to share about learning to code for work and growing to do it for fun.
+I started learning to code to build Prugems. After trying to build with HTML, CSS and JS, I found react and learned to write codes in react too. I'm currently building Prugems and there's so much I want to share about learning to code for work and growing to do it for fun.
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [prudenceemudianughe@gmail.com](mailto:prudenceemudianughe@gmail.com)
